@@ -1,3 +1,4 @@
+
 # Modern-Sounding-Plotter
 A Jupyter Notebook that creates a modern way to visualize sounding data for the purpose of environmental analysis.
 
@@ -35,3 +36,8 @@ POSSIBLE FUTURE FEATURES
   2. Addition of RAP reanalysis data 
   3. Addition of ERA reanalysis data
   4. GOES satellite data for map inset
+
+
+EXAMPLE PLOT
+
+![githubreleasetest4](https://user-images.githubusercontent.com/100786530/210025600-a778f8c9-8770-4487-afca-836d3146a070.png)
